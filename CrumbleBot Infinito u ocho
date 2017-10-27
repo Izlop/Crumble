@@ -1,0 +1,18 @@
+Program start
+do forever loop
+(Dentro del do forever loop:
+motor 1 forward at 100%
+motor 2 stop
+wait 1 second
+motor 1 forward 75%
+motor 2 forward 75%
+wait 1 second
+motor 1 stop
+motor 2 forward 100%
+wait 1 second
+motor 1 forward 75%
+motor 2 forward 75%
+wait 1 second
+motor 1 stop
+motor 2 stop)
+
