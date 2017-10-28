@@ -1,0 +1,10 @@
+Program start
+do forever loop(dentro:
+motor 1 forward 100%
+motor 2 stop
+wait 3 seconds
+motor 1 forward 50%
+motor 2 forward 50%
+wait 2 second
+motor 1 stop
+motor 2 stop)
