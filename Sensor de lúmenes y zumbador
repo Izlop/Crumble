@@ -1,0 +1,7 @@
+Program Start
+Do Forever Loop(
+set LDR at analogue D
+If LDR < 120
+set C HI
+else
+set C LO)
